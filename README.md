@@ -1,0 +1,2 @@
+#RUN THE APPLICATION
+npm start
